@@ -42,7 +42,7 @@ export default {
         {
           dialog: false,
           title: "SoftPhone",
-          poster: "https://i.imgur.com/QEnmqcE.png"
+          poster: "../../images/vozit.png"
         }
       ]
     };

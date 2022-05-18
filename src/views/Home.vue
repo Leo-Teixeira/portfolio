@@ -29,10 +29,7 @@
             </h3>
             <div>
               <p>
-               Je m'appelle Léo Teixeira, j'ai 18 ans et je suis actuellement en 1er année de BTS SIO à Angers.
-               Mes passions sont le sport, les jeux video, la lecture et l'informatique.
-               J'ai choisi ce BTS parceque l'informatique est une de mes passions.
-               J'adore découvrir de nouvelles technologies, les apprivoiser et surtout j'adore dévelloper.
+                Je m'appelle Léo Teixeira, j'ai 18 ans et je suis actuellement en 1re année de BTS SIO à Angers. Mes passions sont le sport, les jeux vidéo, la lecture et l'informatique. J'ai choisi ce BTS parce que l'informatique est une de mes passions. J'adore découvrir de nouvelles technologies, les apprivoiser et surtout, j'adore développer.
               </p>
             </div>
           </div>

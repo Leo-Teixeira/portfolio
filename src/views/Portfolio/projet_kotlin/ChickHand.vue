@@ -2,7 +2,7 @@
 <v-layout column justify-center wrap class="mt-2 pt-2">
   <div style="text-align:center; margin: auto">
     <img
-      src="../../../images/android.png"
+      src="../../../images/chickhand.jpg"
       style="height: 25rem"
       height="320"
     />

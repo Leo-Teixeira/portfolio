@@ -55,9 +55,9 @@
         <strong>Portuguais: Comprehension orale</strong>
         <br>
       </v-flex>
+      <v-flex xs12 sm12 md4 lg5 xl5 class="mx-2 pt-4"></v-flex>
       <div class="mt-4 pt-2">
         <v-btn
-          @click="downloadFile()"
           target="_blank"
           color="green"
           dark
@@ -68,31 +68,4 @@
       </div>
     </v-layout>
 </template>
-
-<script>
-import axios from 'axios';
-
-export default {
-    methods: {
-      downloadFile() {
-        axios({
-          url: 'http://192.168.46.24/Teixeira_Leo.pdf', // download file link goes here
-          method: 'GET',
-          headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-          responseType: 'blob',
-        }).then((res) => {
-          var FILE = window.URL.createObjectURL(new Blob([res.data]));
-        
-          var docUrl = document.createElement('x');
-          docUrl.href = FILE;
-          docUrl.setAttribute('download', 'Teixeira_Leo.pdf');
-          document.body.appendChild(docUrl);
-          docUrl.click();
-        });
-      },
-    }
-  }
-</script>
-<style >
-</style>
 
