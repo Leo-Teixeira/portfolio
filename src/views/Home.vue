@@ -1,6 +1,6 @@
 <template>
   <v-layout column justify-center align-center class="mt-4 pt-2">
-    <img src="../images/moi.jpg" />
+    <img src="../images/leo_teixeira.jpg" />
 
     <br>
 
