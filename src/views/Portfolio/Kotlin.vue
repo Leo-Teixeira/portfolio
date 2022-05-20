@@ -42,7 +42,7 @@ export default {
         {
           dialog: false,
           title: "ChickHand",
-          poster: require('./../../images/chickhand_poulet.jpg')
+          poster: require('./../../images/chickhand_poulet.png')
         },
       ]
     };

@@ -42,7 +42,7 @@ export default {
         {
           dialog: false,
           title: "Aventure",
-          poster: require('./../../images/LogoAventure.jpg')
+          poster: require('./../../images/LogoAventure.png')
         },
         {
           dialog: false,

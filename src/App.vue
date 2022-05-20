@@ -33,10 +33,10 @@ export default {
       { property: "og:title", content: "Léo Teixeira" },
       { property: "og:site_name", content: "Léo Teixeira" },
       { property: "og:type", content: "website" },
-      { property: "og:url", content: require('./images/moi.jpg') },
+      { property: "og:url", content: require('./images/moi.png') },
       {
         property: "og:image",
-        content: require('./images/moi.jpg')
+        content: require('./images/moi.png')
       },
       { property: "og:description", content: "Léo Teixeira Portfolio" }
     ]
