@@ -47,11 +47,11 @@ export default {
           title: "C"
         },
         {
-          src: require('./../../images/cybersecurite.jpg'),
+          src: require('./../../images/cyber.png'),
           title: "Cybersécurité"
         },
         {
-          src: require('./../../images/android.png'),
+          src: require('./../../images/kotlin.jpg'),
           title: "Kotlin"
         },
       ]
