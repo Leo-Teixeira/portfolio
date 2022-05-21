@@ -26,33 +26,53 @@ export default {
     return {
       portfolios: [
         {
-          src: require('./../../images/python.png'),
-          title: "Python"
+          src: require('./../../images/pygamon.png'),
+          title: "Pygamon"
         },
 
         {
-          src: require('./../../images/php.png'),
-          title: "Php"
+          src: require('./../../images/juste_prix.png'),
+          title: "JustePrix"
         },
         {
-          src: require('./../../images/flutter.png'),
-          title: "Flutter"
+          src: require('./../../images/pendu.jpg'),
+          title: "Pendu"
         },
         {
-          src: require('./../../images/html.png'),
-          title: "Html,Css,Js"
+          src: require('./../../images/LogoAventure.png'),
+          title: "Aventure"
         },
         {
-          src: require('./../../images/c.png'),
-          title: "C"
+          src: require('./../../images/sav.png'),
+          title: "SiteSav"
+        },
+        {
+          src: require('./../../images/mail.png'),
+          title: "MailFrauduleux"
+        },
+        {
+          src: require('./../../images/vozitel.jpg'),
+          title: "Softphone"
+        },
+        {
+          src: require('./../../images/cointreau.jpg'),
+          title: "Cointreau"
+        },
+        {
+          src: require('./../../images/bonneteau.png '),
+          title: "Bonneteau"
         },
         {
           src: require('./../../images/cyber.png'),
-          title: "Cybersécurité"
+          title: "Cybersecurite"
         },
         {
           src: require('./../../images/kotlin.jpg'),
-          title: "Kotlin"
+          title: "Formaflix"
+        },
+        {
+          src: require('./../../images/kotlin.jpg'),
+          title: "Chickhand"
         },
       ]
     };
