@@ -51,7 +51,9 @@ export default {
     return {
       langage: [
         {
-          title: "C#",
+          title: "C#"
+        },
+        {
           title: "PHP"
         },
       ],

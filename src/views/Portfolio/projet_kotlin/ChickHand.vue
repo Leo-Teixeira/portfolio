@@ -55,8 +55,12 @@ export default {
     return {
       langage: [
         {
-          title: "Kotlin",
-          title: "laravel",
+          title: "Kotlin"
+        },
+        {
+          title: "laravel"
+        },
+        {
           title: "C#"
         },
       ],
