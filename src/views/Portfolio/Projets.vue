@@ -51,7 +51,7 @@ export default {
           title: "MailFrauduleux"
         },
         {
-          src: require('./../../images/vozitel.jpg'),
+          src: require('./../../images/vozit.png'),
           title: "Softphone"
         },
         {
@@ -59,7 +59,7 @@ export default {
           title: "Cointreau"
         },
         {
-          src: require('./../../images/bonneteau.png '),
+          src: require('./../../images/bonneteau.png'),
           title: "Bonneteau"
         },
         {
