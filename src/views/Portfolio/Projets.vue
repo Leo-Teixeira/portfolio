@@ -63,15 +63,15 @@ export default {
           title: "Bonneteau"
         },
         {
-          src: require('./../../images/cyber.png'),
+          src: require('./../../images/cyberprotective.png'),
           title: "Cybersecurite"
         },
         {
-          src: require('./../../images/kotlin.jpg'),
+          src: require('./../../images/logo.png'),
           title: "Formaflix"
         },
         {
-          src: require('./../../images/kotlin.jpg'),
+          src: require('./../../images/chickhand.png'),
           title: "Chickhand"
         },
       ]

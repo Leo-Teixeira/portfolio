@@ -51,7 +51,8 @@ export default {
     return {
       langage: [
         {
-          title: "C#"
+          title: "C#",
+          title: "laravel"
         },
       ],
       caracteristique : [
